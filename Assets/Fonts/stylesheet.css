@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'visby_cfmedium';
+    src: url('visbycf-medium-webfont.woff2') format('woff2'),
+         url('visbycf-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'visby_cfdemi_bold';
+    src: url('visbycf-semibold-webfont.woff2') format('woff2'),
+         url('visbycf-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
